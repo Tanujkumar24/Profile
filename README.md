@@ -52,4 +52,7 @@ I am a Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :writing_hand: Blog Posts :
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
   
